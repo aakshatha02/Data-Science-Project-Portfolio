@@ -1,0 +1,10 @@
+---
+title: "Corona Analysis"
+author : "Akshatha"
+format : 
+  html :
+   standalone : True
+   embed resources : True 
+   code-fold : True
+engine: "Knitr"
+---
